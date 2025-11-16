@@ -1,33 +1,44 @@
-Skills:
-  Programming Languages
-  Java (OOP)
-  Python
-  C++
+About me
+Strong in Java OOP, Python, C++
 
-Tools & IDEs:
-  VS Code
-  IntelliJ IDEA
+ Currently learning and exploring Machine Learning & Web Development
 
-Core Strengths:
-  OOP Concepts
-  Problem Solving
-  Team Collaboration
-  Project Development
+ Love working in teams and solving real-world problems
 
-Current Project: Aura
-  Working in a 10-member team
+ Focused on building a solid foundation in DSA, OOP, and Software Design
+
+Currently
+Working in a 10-member team
+
 Project focuses on:
-  Strong teamwork and collaboration
-  Applying Object-Oriented Programming principles
-  Building according to current market trends & industry needs
-  Contributing towards development, logic building, and improving overall project structure
-Interests
-  Machine Learning
-  Data Structures & Algorithms
-  Web Development
-  OOP & Software Architecture
-  Team-based Development Projects
 
-📫 Connect With Me
-www.linkedin.com/in/huzaifa-ayaz-a1653a396
-Feel free to share your LinkedIn link or email if you want me to add it here!
+ Strong teamwork and collaboration
+
+ Applying Object-Oriented Programming principles
+
+ Building according to current market trends & industry needs
+
+Contributing towards development, logic building, and improving overall project structure
+Skills
+Programming: C++, Python, Java (currently strengthening core OOP concepts)
+
+Tools: VS Code, IntelliJ Idea, GitHub
+
+Interests: Machine Learning
+
+Data Structures & Algorithms
+
+Web Development
+
+OOP & Software Architecture
+
+Team-based Development Projects
+
+Projects
+Currently in Aura Project
+
+LinkedIn:www.linkedin.com/in/huzaifa-ayaz-a1653a396
+Want to reach me!
+I'm open to part-time work, internships, and project collaborations — especially roles where I can learn while contributing.
+Feel free to reach out on LinkedIn or open an issue / PR on any repo.
+

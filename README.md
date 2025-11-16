@@ -1,4 +1,7 @@
-About me
+---------------------------------------------------------------------------------------------------------------------------
+
+> About me:
+
 Strong in Java OOP, Python, C++
 
  Currently learning and exploring Machine Learning & Web Development
@@ -7,7 +10,10 @@ Strong in Java OOP, Python, C++
 
  Focused on building a solid foundation in DSA, OOP, and Software Design
 
-Currently
+---------------------------------------------------------------------------------------------------------------------------
+
+> Currently:
+
 Working in a 10-member team
 
 Project focuses on:
@@ -19,26 +25,45 @@ Project focuses on:
  Building according to current market trends & industry needs
 
 Contributing towards development, logic building, and improving overall project structure
-Skills
+
+---------------------------------------------------------------------------------------------------------------------------
+
+> Skills
+
 Programming: C++, Python, Java (currently strengthening core OOP concepts)
 
-Tools: VS Code, IntelliJ Idea, GitHub
+---------------------------------------------------------------------------------------------------------------------------
 
-Interests: Machine Learning
+> Tools:
 
-Data Structures & Algorithms
+ VS Code, IntelliJ Idea, GitHub
 
-Web Development
+ ---------------------------------------------------------------------------------------------------------------------------
 
-OOP & Software Architecture
+> Interests:
 
-Team-based Development Projects
+  Machine Learning
 
-Projects
+  Data Structures & Algorithms
+
+  Web Development
+
+  OOP & Software Architecture
+
+  Team-based Development Projects
+
+---------------------------------------------------------------------------------------------------------------------------
+
+> Projects:
+
 Currently in Aura Project
 
-LinkedIn:www.linkedin.com/in/huzaifa-ayaz-a1653a396
-Want to reach me!
+> LinkedIn:www.linkedin.com/in/huzaifa-ayaz-a1653a396
+
+ ---------------------------------------------------------------------------------------------------------------------------
+ 
+ > Want to reach me!
+
 I'm open to part-time work, internships, and project collaborations — especially roles where I can learn while contributing.
 Feel free to reach out on LinkedIn or open an issue / PR on any repo.
 
